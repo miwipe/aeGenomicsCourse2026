@@ -1,8 +1,8 @@
-
 <p align="center">
-  <img src="https://github.com/miwipe/aeGenomicsCourse2026/tree/main/assets/img/analysis.png" alt="Course Logo" width="100%">
+  <img src="assets/img/analysis.png"
+       alt="Course Logo"
+       width="100%">
 </p>
-
 
 # Short course description
 The Ancient Environmental Genomics Course is an intensive six-day PhD-level program introducing participants to the study of ancient environmental DNA (eDNA). This genetic material is preserved outside of bones and teeth, often embedded in sediments, ice, or other natural archives. Fragile and fragmentary, it provides unique windows into past ecosystems, revealing information about species that once lived, interacted, and disappeared.
@@ -14,8 +14,6 @@ Our goal is to equip you with the skills to analyze complex mixtures of ancient 
 # Practical information and updates
 
 ## Course-responsible contact details
-
-
 Mikkel Winther Pedersen,
 mail: mwpedersen@sund.ku.dk,
 phone/whatsapp: +45 2927 5342
