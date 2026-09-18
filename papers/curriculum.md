@@ -2,21 +2,21 @@
 
 [Arboll et al. 2023](/papers/Arboll2023.pdf)
 
-[Capo et al. 2022](/aeGenomicsCourse/papers/Capo2022.pdf)
+[Capo et al. 2022](papers/Capo2022.pdf)
 
-[Fernandez-Guerra et al. 2023](/aeGenomicsCourse/papers/Fernandez-Guerra2023.pdf)
+[Fernandez-Guerra et al. 2023](/papers/Fernandez-Guerra2023.pdf)
 
-[Kjaer et al. 2022](/aeGenomicsCourse/papers/kjaer2022.pdf)
+[Kjaer et al. 2022](/papers/kjaer2022.pdf)
 
-[Orlando et al. 2021](/aeGenomicsCourse/papers/Orlando2021.pdf)
+[Orlando et al. 2021](/papers/Orlando2021.pdf)
 
-[Pedersen et al. 2021](/aeGenomicsCourse/papers/Pedersen2021.pdf)
+[Pedersen et al. 2021](/papers/Pedersen2021.pdf)
 
-[Rasmussen et al. 2015](/aeGenomicsCourse/papers/Rasmussen2015.pdf)
+[Rasmussen et al. 2015](/papers/Rasmussen2015.pdf)
 
-[Warinner et al. 2017](/aeGenomicsCourse/papers/Warinner2017.pdf)
+[Warinner et al. 2017](/papers/Warinner2017.pdf)
 
-[Murchie et al. 2026](/aeGenomicsCourse/papers/Murchie2026.pdf)
+[Murchie et al. 2026](/papers/Murchie2026.pdf)
 
 ## Additional good-to-know methods papers
 
@@ -26,6 +26,6 @@
 
 [Wang et al. 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14006)
 
-[Sanctis et al. 2025](/aeGenomicsCourse/papers/Sanctis2025.pdf)
+[Sanctis et al. 2025](/papers/Sanctis2025.pdf)
 
 
