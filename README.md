@@ -78,6 +78,6 @@ Note: The days will contain alternations between ‘talks’ and tutorials, thes
 3.	**Day 2 - 9am-5pm** (22nd September): Ancient DNA damage, data interpretation, time-series analysis, environmental DNA taphonomy and mitochondrial analysis. Course dinner from 18:00–21:00. (Shyam Ravishankar and Nicola Vogel, Pete Heintzman, Benjamin Vernot and Mikkel W. Pedersen).
 4.	**Day 3 - 9am-5pm** (23rd September): Mineral–DNA interactions, whole-genome analysis and practical work with eukaryotic ancient environmental DNA. (Karina Sand, Mikkel W. Pedersen and Benjamin Vernot).
 5.	**Day 4 - 9am-5pm** (24th September): Ancient microbial communities, taxonomic profiling, microbial ecology and functional analysis. (Mateu Menendez-Serra).
-6.	**Day 5 - 9am-5pm** (25th September): Ancient diseases and pathogens, group presentations, course summary and evaluation. (Martin Sikora and the course teaching team).
+6.	**Day 5 - 9am-5pm** (25th September): Ancient diseases and pathogens, group presentations, course summary and evaluation. (Martin Sikora and Mikkel W. Pedersen).
 
 
