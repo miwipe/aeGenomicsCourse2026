@@ -16,6 +16,8 @@
 
 [Warinner et al. 2017](/aeGenomicsCourse/papers/Warinner2017.pdf)
 
+[Murchie et al. 2026](/aeGenomicsCourse/papers/Murchie2026.pdf)
+
 ## Additional good-to-know methods papers
 
 [Vogel et al. 2023](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.14214)
@@ -26,4 +28,4 @@
 
 [Sanctis et al. 2025](/aeGenomicsCourse/papers/Sanctis2025.pdf)
 
-[Murchie et al. 2017](/aeGenomicsCourse/papers/Murchie2026.pdf)
+
