@@ -5,6 +5,7 @@
 </p>
 
 # Short course description
+
 The Ancient Environmental Genomics Course is an intensive six-day PhD-level program introducing participants to the study of ancient environmental DNA (eDNA). This genetic material is preserved outside of bones and teeth, often embedded in sediments, ice, or other natural archives. Fragile and fragmentary, it provides unique windows into past ecosystems, revealing information about species that once lived, interacted, and disappeared.
 
 The course will discuss the diverse materials that can yield ancient eDNA, such as permafrost soils, lake sediments, ice cores, cave deposits, artifacts, dental calculus, and coprolites. Each archive type offers distinct preservation conditions and scientific opportunities, and you will gain hands-on experience in how to approach and interpret them.
@@ -54,7 +55,7 @@ phone/whatsapp: +45 2927 5342
 # Social events
 
 Sunday September 20st, 17-19, Ice breaker drinks and snacks at the Natural History Museum of Denmark.
-Tuesday September 23rd, evening we will go for dinner at TBA 
+Tuesday September 22rd, evening we will go for dinner at TBA, for those interested, the course unfortunately cannot cover this.  
 
 # Curriculum
 
@@ -72,19 +73,11 @@ Tuesday September 23rd, evening we will go for dinner at TBA
 # Schedule
 
 Note: The days will contain alternations between ‘talks’ and tutorials, these will be interwoven in-between each other and it is therefore not outlined here.
-1.	**Day 0 – 1pm-5pm** (20th September): Welcome, intro to the ancient environmental DNA summer course, computational cloud setup, github + github classroom introduction, 2-min introduction to student's projects/datasets (Pete Heintzman & Mikkel W. Pedersen). 
-2.	**Day 1 - 9am-5pm** (21st September): Continued intro to ancient environmental DNA, sources of ancient eDNA, data generation, mineral-DNA binding, DNA and microfossils, tour de labs, pros and cons of automation, sequencing facility. (Mikkel WP and guest talk by Karina Sand).
-3.	**Day 2 - 9am-5pm** (22nd September): Lecture on structuring ancient environmental DNA studies and introduction to basics in data analysis, command line, workflow, pipelines, and proper analysis documentation GitHub and version control etc. standards and data submission. Setting up and instructions on how to access the course server. (Thorfinn Korneliussen, Mikkel WP and Antonio FG).
-4.	**Day 3 - 9am-5pm** (23rd September): Lecture on Eukaryotic profiling, ancient DNA estimation, extraction of ‘ancient/damages) reads, consensus genome generation, phylogenetic placement and analysis, and measure of the split time. Practicals: mapping, LCA, damage, Environmental Genome Assembly, PanGenomeGraphs, Phylogenetic placement, database building and choice, Data wrangling and documentation. Hands-on Eukaryotic ancient eDNA data. Lecture on hominin DNA from ancient sediments and hands-on (Mikkel WP & Benjamin Vernot). 
-5.	**Day 4 - 9am-5pm** (24th September): Introduction to Prokaryotic analysis from marine, lakes, caves, Ice etc. Ancient vs living communities. Unknowns, MAGs, Databases, Function, Binning, Hands-on exercises (Mateu Menendez-Serra). 
-6.	**Day 5 - 9am-5pm** (25th September): Diseases, viruses and bacterial pathogens, how best to catch’em. Hand-on exercises (Martin Sikora). Lectures on guide and explain standards and best practices for documenting and reporting analysis and results, and eventually making these publicly available. Evaluation and summarising (Mikkel WP, Martin Sikora).
-
-
-
-
-
-
-
-
+1.	**Day 0 – 1pm-5pm** (20th September): Welcome, course introduction, computing and VPN setup, and an overview of ancient environmental genomics. Icebreaker from 17:00–19:00. (Pete Heintzman and Mikkel W. Pedersen).
+2.	**Day 1 - 9am-5pm** (21st September): Introduction to computational workflows, command-line tools, sequence mapping, reference databases and analysis of ancient environmental DNA. (Pete Heintzman, Mikkel W. Pedersen, Shyam Ravishankar and Nicola Vogel).
+3.	**Day 2 - 9am-5pm** (22nd September): Ancient DNA damage, data interpretation, time-series analysis, environmental DNA taphonomy and mitochondrial analysis. Course dinner from 18:00–21:00. (Shyam Ravishankar and Nicola Vogel, Pete Heintzman, Benjamin Vernot and Mikkel W. Pedersen).
+4.	**Day 3 - 9am-5pm** (23rd September): Mineral–DNA interactions, whole-genome analysis and practical work with eukaryotic ancient environmental DNA. (Karina Sand, Mikkel W. Pedersen and Benjamin Vernot).
+5.	**Day 4 - 9am-5pm** (24th September): Ancient microbial communities, taxonomic profiling, microbial ecology and functional analysis. (Mateu Menendez-Serra).
+6.	**Day 5 - 9am-5pm** (25th September): Ancient diseases and pathogens, group presentations, course summary and evaluation. (Martin Sikora and the course teaching team).
 
 
