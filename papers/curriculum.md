@@ -24,3 +24,6 @@
 
 [Wang et al. 2022](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14006)
 
+[Sanctis et al. 2025](/aeGenomicsCourse/papers/Sanctis2025.pdf)
+
+[Murchie et al. 2017](/aeGenomicsCourse/papers/Murchie2026.pdf)
