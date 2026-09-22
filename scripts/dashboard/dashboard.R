@@ -52,14 +52,6 @@ course_data[, latitude := suppressWarnings(as.numeric(depth_cm))]
 course_data[, longitude := suppressWarnings(as.numeric(depth_cm))]
 course_data[, years_bp := suppressWarnings(as.numeric(depth_cm))]
 
-# Keep the course-facing name used in the exercises and hover text while
-# retaining the original metaDMG output column as well.
-# if (!"Zfit" %in% names(course_data) && "Zfit_new" %in% names(course_data)) {
-#   course_data[, Zfit := Zfit_new]
-# }
-
-# Broad teaching categories derived from the full metaDMG lineage. Unmatched
-# Unicorn-only rows have no lineage and therefore belong to "Other".
 lineage <- as.character(course_data$taxa_path)
 course_data[, kingdom := data.table::fcase(
   grepl("Bacteria", lineage, fixed = TRUE), "Bacteria",
@@ -142,7 +134,6 @@ build_damage_profile <- function(record) {
   profile[is.finite(f) | is.finite(dx)]
 }
 
-# This reproduces the damage-profile styling in the supplied Holi Grail app.
 make_damage_plot <- function(profile, y_max = 1) {
   if (!nrow(profile)) return(NULL)
   y_max <- suppressWarnings(as.numeric(y_max))
